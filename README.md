@@ -1,2 +1,3 @@
-# lite-chat-app-cwpu
-Automated issue comment bot repository
+# Lite Chat App Cwpu
+
+Automated issue comment bot repository.
